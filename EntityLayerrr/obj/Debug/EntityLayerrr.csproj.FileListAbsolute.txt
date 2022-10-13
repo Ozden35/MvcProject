@@ -1,0 +1,14 @@
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\bin\Debug\EntityLayerrr.dll.config
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\bin\Debug\EntityLayerrr.dll
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\bin\Debug\EntityLayerrr.pdb
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\bin\Debug\EntityFramework.dll
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\bin\Debug\EntityFramework.xml
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\obj\Debug\EntityLayerrr.csproj.AssemblyReference.cache
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\obj\Debug\EntityLayerrr.csproj.CoreCompileInputs.cache
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\obj\Debug\EntityLayerrr.dll
+C:\Users\eklaz\source\repos\MvcProjeKamp\EntityLayerrr\obj\Debug\EntityLayerrr.pdb
